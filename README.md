@@ -1,2 +1,2 @@
-# 2025.01.12
-Cc
+# Chained and Nested Conditionals Exercise"
+This repository contains an exercise of a programming course. The focus is on understanding and distinguishing between chained conditionals and nested conditionals in programming. Additionally, it involves understanding the challenges of deeply nested conditionals and strategies for simplifying them. The exercise also requires explaining the difference between chained and nested conditionals and creating examples of both.
